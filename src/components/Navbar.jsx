@@ -11,4 +11,5 @@ export const Navbar = () => {
     )
   };
 
-  //export default Navbar; // default export
+  export default Navbar;
+   // default export
