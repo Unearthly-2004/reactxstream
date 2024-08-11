@@ -1,5 +1,7 @@
 const Searchbar = () => {
-    return (
+  console.log("Search bar re-renders");  
+  
+  return (
       <div className="flex justify-center items-center p-4">
         <input 
           type="text" 
